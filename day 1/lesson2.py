@@ -2,7 +2,7 @@ name = "დაჩი"
 
 hello = "გამარჯობა,"
 info = "მე ვარ"
-howoldishe = "წლის,"
+howold_is_he = "წლის,"
 whatshesheight = "ჩემი სიმაღლეა"
 exactheight = "სანტიმეტრი"
 aboutmyteacher = " და ჩემი რაზმის ლიდერი არის ძალიან კარგი ადამიანი."
@@ -19,21 +19,5 @@ is_goodatmath = True
 
 is_dontknowenglish = False
 
-print(hello + " " + info + " " + name + " " + surname + " " + str(age) + " " + howoldishe + " " + whatshesheight + " " + str(height) + " " + exactheight + " " + aboutmyteacher)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+print(hello + " " + info + " " + name + " " + surname + " " + str(age) + " " + howold_is_he + " " + whatshesheight + " " + str(height) + " " + exactheight + " " + aboutmyteacher)
 
