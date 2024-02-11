@@ -17,3 +17,6 @@ print(say_hello + " " + name + " " + surname + " " + I_met_and_became_firends_wi
 
 
 
+
+
+
