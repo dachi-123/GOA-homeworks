@@ -1,0 +1,14 @@
+# print(7 + 3)
+# print(10 - 5)
+# print(5 * 3)
+# print(10 / 2)
+
+# name = "dachi"
+# print("my name is" + " " + name)
+
+price = 99
+price = 100
+price = "GOA"
+print(price)
+
+
