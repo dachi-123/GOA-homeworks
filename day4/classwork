@@ -6,9 +6,12 @@
 # name = "dachi"
 # print("my name is" + " " + name)
 
-price = 99
-price = 100
-price = "GOA"
-print(price)
+# price = 99
+# price = 100
+# price = "GOA"
+# print(price)
 
-
+name = "anna"
+score = 96
+print(name)
+print(score)
