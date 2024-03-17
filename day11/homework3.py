@@ -1,7 +1,6 @@
 word = 'dachi'
 reversed_word = ' '
 
-# for best in word:
-#     reversed_word = best + reversed_word
-#     print(reversed_word)
-print(word[::-1])    
+for best in word:
+     reversed_word = best + reversed_word
+     print(reversed_word)

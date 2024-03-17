@@ -4,8 +4,4 @@ for i in range(1, 20):
     while num < 10:
         print('GOA is the best')
         num += 1 
-
-
-
-
-
+        

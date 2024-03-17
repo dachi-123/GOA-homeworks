@@ -1,3 +1,2 @@
 for i in range(1, 31):
-    print( i "GOA is the best")
-
+    print("GOA is the best")
